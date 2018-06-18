@@ -1,0 +1,1 @@
+This folder contains assignments of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization course of the Deep Learning Specialization on Coursera(deeplearning.ai)
