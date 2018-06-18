@@ -1,0 +1,1 @@
+This folder contains integrate and fire neurons synchronization and assignments of Neural Networks course on Coursera (deeplearning.ai)
